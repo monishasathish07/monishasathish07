@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @monishasathish07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ During the project below is the points cover in dashboard :-
 
-<!---
-monishasathish07/monishasathish07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I have created this repository for E Commerce Project Analysis using power BI
+1] Over All Employees
+2] Attrition
+3] Attrition Rate
+4] Average Age
+5] Department Wise Attrition
+6] Number Of Employee By Age Group
+7] Job Satisfaction Rating
+8] Education Field Wise Attrition
+9] Attrition Gender Of Different Age Group
+
+Skills used in the project include:
+
+Data Cleaning
+DAX & Calculated Columns
+Creation of Different Charts such as Bar Chart, Line Charts, Column charts,Pie Chart , Table etc.
+Creation of Slicers and Card Visual
+Creation of Measures
+Design and Development of Dashboard
+
